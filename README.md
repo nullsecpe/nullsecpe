@@ -1,7 +1,10 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Python Love%3B+Hello+World Peru%C3%BA&center=true&width=500&height=60">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?lines=PythonLove;+Hello+World+Perú&center=true&width=500&height=60" 
+      alt="Typing SVG"
+    >
   </a>
 </p>
 
